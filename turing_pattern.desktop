@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=turing_pattern
+X-Python-2-Compatible=false
+X-Krita-Manual=Manual.html
+Name=Turing_Pattern
+Comment=Applying turing pattern to the selected layer, inspired by @TickFleato's tutorial
